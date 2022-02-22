@@ -11,6 +11,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
         <p>This is my first change</p>
+        <p>Besim why are thing so hard sometimes?</p>
         <p>This is my second change</p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
